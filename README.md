@@ -1,4 +1,5 @@
 # FewShot_Prediction
 
-
-This is a Repo for few shot learning prediction
+Highlight Implementation:
+- Few Shot learning using ChatCompletion `gpt-3.5-turbo`
+- Self-Consistency Sampling
